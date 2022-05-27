@@ -1,4 +1,4 @@
-# Python-proje
+# [Python-proje](www.patika.dev)
  m = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 mnew = []
 def flatten(n):
